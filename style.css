@@ -1,5 +1,6 @@
 body {
   font-family: Helvetica, Arial, sans-serif;
+  background-color: LightGrey
 }
 
 h1 {
@@ -22,7 +23,6 @@ img {
 
 div {
   border: 1px solid grey;
-  background-color: LightGrey;
   padding: 10px;
   margin: 20 px;
 }
